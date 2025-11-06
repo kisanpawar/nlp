@@ -1,0 +1,16 @@
+review_id,product_name,review_text,rating,sentiment
+1,Redmi Note 12,"Excellent phone for the price, battery lasts two days and the display is smooth.",5,positive
+2,Redmi Note 12,"Decent performance but the camera is average and low-light shots are noisy.",3,neutral
+3,Samsung Galaxy M14,"Terrible experience—phone keeps freezing and the charger stopped working in a week.",1,negative
+4,boAt Airdopes 141,"Great sound quality and comfortable fit, pairing is instant and battery is solid.",5,positive
+5,boAt Airdopes 141,"Not good for calls, mic picks up a lot of noise and the left bud disconnects.",2,negative
+6,ASUS Vivobook 15,"Value for money laptop for students, keyboard is nice and thermals are fine.",4,positive
+7,ASUS Vivobook 15,"Screen is dull outdoors and speakers are weak, otherwise okay for basic tasks.",3,neutral
+8,OnePlus Nord CE 3 Lite,"Amazing charging speed and clean UI, camera is decent in daylight.",4,positive
+9,OnePlus Nord CE 3 Lite,"Disappointed with camera in indoor lighting and battery drops fast after 80%.",2,negative
+10,Prestige Mixer Grinder,"Works as expected, build could be better but grinds spices quickly.",4,positive
+11,Prestige Mixer Grinder,"Motor heats up quickly and there’s a burning smell after a few minutes.",1,negative
+12,Noise ColorFit Pro,"Looks stylish and step counter is fairly accurate; notifications are reliable.",4,positive
+13,Noise ColorFit Pro,"Straps are uncomfortable and heart rate readings seem inconsistent.",2,negative
+14,HP Ink Tank Printer,"Easy setup and prints are crisp; ink consumption is low for bulk printing.",5,positive
+15,HP Ink Tank Printer,"Frequent paper jams and the app fails to detect the printer half the time.",1,negative
